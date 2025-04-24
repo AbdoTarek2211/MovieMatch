@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> f59a584 (Beta Version)
 # Logs
 logs
 *.log
@@ -134,3 +138,16 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+<<<<<<< HEAD
+=======
+=======
+node_modules
+dist
+.DS_Store
+server/fastapi/svdpp_model.pkl
+.env
+server/public
+vite.config.ts.*
+*.tar.gz
+>>>>>>> db1d5f4 (Beta Version)
+>>>>>>> f59a584 (Beta Version)
