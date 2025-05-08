@@ -47,7 +47,7 @@ MovieMatch is an intelligent movie recommendation platform that combines the pow
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/moviematch.git
+   git clone https://github.com/AbdoTarek2211/MovieMatch.git
    cd moviematch
    ```
 
